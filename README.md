@@ -1,6 +1,34 @@
 
 ## Bem-vindo(a) ao perfil do SlepDesenvolve --> ⚡
 
+
+<p align="center">
+  <a href="https://github.com/slepdesenvolve"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4C7CFC&background=4C7CFC00&center=true&repeat=false&width=435&lines=Ricardo+Nogueira" alt="Ricardo Nogueira" /></a>
+</p>
+
+<p align="center">
+    <a href="https://github.com/slepdesenvolve"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4C7CFC&background=4C7CFC00&center=true&width=435&lines=Desenvolvimento+e+Design+Web;+Experi%C3%AAncia+em+UI%2FUX+Design;Sempre+aprendendo+algo" alt="Descrição" />
+    </a>
+</p>
+
+<div align="center> 
+
+<!-- === STATS - TOP LANGUAGES - COMMITS === -->
+<div align="center> 
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SlepDesenvolve&theme=blueberry) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SlepDesenvolve&theme=blueberry) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SlepDesenvolve&theme=blueberry&utcOffset=8)
+| :-: | :-: | :-: |
+
+</div>
+
+<div align="center">
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SlepDesenvolve&theme=blueberry) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SlepDesenvolve&theme=blueberry&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
+| :-: | :-: | 
+</div>
+
+
+
  <div>
    <a href="https://github.com/slepdesenvolve/">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=slepdesenvolve&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
