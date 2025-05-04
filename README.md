@@ -8,14 +8,14 @@
     </a>
 </p>
 
+
+
+<!-- === STATS - TOP LANGUAGES - COMMITS // START === -->
 <div align="center> 
 
-<!-- === STATS - TOP LANGUAGES - COMMITS === -->
-<div align="center> 
-
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SlepDesenvolve&theme=blueberry) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SlepDesenvolve&theme=blueberry) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SlepDesenvolve&theme=blueberry&utcOffset=8)
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SlepDesenvolve&theme=blueberry) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SlepDesenvolve&theme=blueberry) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SlepDesenvolve&theme=blueberry&utcOffset=8) 
 | :-: | :-: | :-: |
-
+<!-- === STATS - TOP LANGUAGES - COMMITS  // END === -->
 </div>
 
 <div align="center">
@@ -24,6 +24,14 @@
 | :-: | :-: | 
 </div>
 
+<!-- REDES SOCIAS START -->
+<div align="center"> 
+
+![Static Badge](https://img.shields.io/badge/INSTAGRAM-4c7cfc?style=for-the-badge&logo=instagram&link=https%3A%2F%2Fwww.instagram.com%2Fslepdesenvolve%2F) 
+![Static Badge](https://img.shields.io/badge/INSTAGRAM-4c7cfc?style=for-the-badge&logo=instagram&link=https%3A%2F%2Fwww.instagram.com%2Fslepdesenvolve%2F) 
+![Static Badge](https://img.shields.io/badge/INSTAGRAM-4c7cfc?style=for-the-badge&logo=instagram&link=https%3A%2F%2Fwww.instagram.com%2Fslepdesenvolve%2F)
+
+<!-- REDES SOCIAS END -->
 
  
 <br>
