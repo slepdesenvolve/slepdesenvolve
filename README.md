@@ -1,7 +1,4 @@
 
-## Bem-vindo(a) ao perfil do SlepDesenvolve --> ⚡
-
-
 <p align="center">
   <a href="https://github.com/slepdesenvolve"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4C7CFC&background=4C7CFC00&center=true&repeat=false&width=435&lines=Ricardo+Nogueira" alt="Ricardo Nogueira" /></a>
 </p>
@@ -28,18 +25,6 @@
 </div>
 
 
-
- <div>
-   <a href="https://github.com/slepdesenvolve/">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=slepdesenvolve&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slepdesenvolve&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg ">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg ">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg ">
-</div>
  
 <br>
  
