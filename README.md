@@ -72,6 +72,7 @@
      height=154
      align="center"
      alt="Top Language"
+     src="https://github-readme-streak-stats.herokuapp.com?user=slepdesenvolve&theme=tokyonight&locale=pt_BRhide_border=true&card_width=885"
      src="https://github-readme-streak-stats.herokuapp.com?user=slepdesenvolve&theme=tokyonight&hide_border=true&card_width=885"
    />
    </div>
