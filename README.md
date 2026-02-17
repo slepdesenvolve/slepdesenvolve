@@ -17,6 +17,7 @@
       </a>
     </p>
     <br>
+   
   </samp>
 </div>
 <!--
@@ -26,6 +27,7 @@
   </p>
 </div>
 -->
+
 <br>
 <br>
 
@@ -36,7 +38,13 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Slep%20Desenvolve%20%E2%99%A1-4c7cfc?style=flat" />
 </div>
+<br>
+<div align="center">
+  <img src="https://img.shields.io/badge/STATUS-SYSTEM_OPERATIONAL-4c7cfc?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CLASS-COMPUTER_ENGINEER-4c7cfc?style=for-the-badge" />
+</div>
 
+<br>
 <div align="center" width="100%">
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=4c7cfc&width=900&size=21&center=true&lines=I'm+from+Brazil;Computer+Engineer+with+focus+on+Web+Development;Front-end+and+Back-end+Projects;Be+welcome!" alt="Typing SVG"/>
 </div>
